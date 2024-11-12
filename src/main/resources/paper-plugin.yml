@@ -1,0 +1,7 @@
+name: Old-Raids
+version: '1.0-SNAPSHOT'
+main: org.porkplugins.oldRaids.OldRaids
+api-version: '1.21'
+authors: [ PorkDevMode ]
+description: A PaperMC plugin that reverts back to the old and better way of obtaining bad omen, allowing your raid farms to finally work again!
+website: https://github.com/PorkDevMode
